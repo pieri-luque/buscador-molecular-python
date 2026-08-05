@@ -1,4 +1,4 @@
-# Buscador Científico y Analizador Molecular en Python (PROTOTIPO)
+# Buscador Científico y Analizador Molecular en Python (PROTOTIPO) (Acepto Correcciones ✍️)
 
 ## 🧪 El Problema Químico
 En las etapas iniciales de la investigación analítica, los científicos necesitan consultar rápidamente las propiedades fisicoquímicas y estructurales de miles de compuestos. Ir base de datos por base de datos buscando manualmente los datos necesarios consume demasiado tiempo y fragmenta el flujo de trabajo.
